@@ -1,3 +1,4 @@
+#this while loop is useful if you need a condition to be satisfied
 response = ""
 
 while response != "yes":
