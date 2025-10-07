@@ -1,4 +1,20 @@
 #Create a program that can take and display your Name, ID number and age.
+#1. User Input
+
+name = input("Whats Your name?")
+id = input("What is your id number?")
+age = input("How old are you?")
+
+#2. print. 
+
+print("You are",name,"with the ID",id,"and are",age,"years old")
+
+calculated_Age = int(age)+5
+
+print("You will be",calculated_Age,"in 5 years")
+
+
+
 
 
 

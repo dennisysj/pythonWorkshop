@@ -5,5 +5,5 @@ while response != "yes":
     if(response != "yes"):
         print("that was not a yes")
     
-    
 print("Thank you!")
+

@@ -1,4 +1,3 @@
-
 userinput = input("Hi whats your name? \n")
 
 print(userinput)
