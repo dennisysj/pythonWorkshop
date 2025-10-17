@@ -27,7 +27,7 @@ while(keepLooping):
     elif(userInput=="*"):
         print(num1*num2)
     
-    
+    calculations.append(str(num1) + userInput + str(num2))
     check = input("Press Enter to continue or type \"quit\" to exit: \n")
     if(check == "quit"):
         keepLooping = False

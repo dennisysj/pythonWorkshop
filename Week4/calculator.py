@@ -1,6 +1,3 @@
-#Make a calculator for 2 variables
-# "*" is multiply and "/" is divide so 2*2 = 4, 10/5 = 2.
-#also this is a comment btw, it won't affect your code.
 
 calculations= []
 num1 = 1
@@ -31,5 +28,4 @@ while(keepLooping):
     check = input("Press Enter to continue or type \"quit\" to exit: \n")
     if(check == "quit"):
         keepLooping = False
-    
 # print("Here are your previous calculations: \n", calculations)
